@@ -11,7 +11,8 @@ Passionate about transforming data into actionable insights, I use Power BI, Pyt
 ![DAX](https://img.shields.io/badge/DAX-%23007ACC.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-%23007ACC.svg?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-%2300cc96.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sawadogo78&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
