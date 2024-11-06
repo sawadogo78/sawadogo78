@@ -2,6 +2,9 @@
 I'm a graduate engineer from Ecole Centrale Casablanca, a member of the Ecoles Centrales group like CentraleSupélec in Paris. <br> My professional experience includes positions at Eastern Canada Consulting in Montreal, Schwartz and Co in Luxembourg, as well as Capgemini Morocco, where I held various roles such as IT Project Manager, Business Analyst and Consultant. My academic and professional career has enabled me to build up proven expertise in project management, digital transformation and business needs analysis. <br><br>
 Passionate about transforming data into actionable insights, I use Power BI, Python, Plotly & Dash, and SQL to analyze and visualize complex data. In this way, I transform complex information into clear and powerful dashboards, offering data-driven solutions to propel strategic decisions and optimize performance.
 
+## 📂 My Projects
+All my projects are available on: [Data Analytics | Maven Analytics Profile](https://mavenanalytics.io/profile/Tiga-SAWADOGO/199101825)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiga-sawadogo-8b65ab19a) 
